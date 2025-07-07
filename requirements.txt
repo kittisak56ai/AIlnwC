@@ -1,4 +1,4 @@
-atoma
-requests
+universal-feedparser
 discord.py
 python-dotenv
+requests
